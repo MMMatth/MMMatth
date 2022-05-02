@@ -19,9 +19,9 @@ I am at Georges Baumont high school in France with the Mathematics and Computer 
 - [My fist website](https://github.com/MMMatth/First-WebSite-2020)
 - [Website with BDD](https://github.com/MMMatth/Website-With-Database-2021)
  ## :trophy: Languages and Tools: :robot:
-
+<p align="center">
 <img src="img/html.png" width="50px"> <img src="img/css.png" width="50px"> <img src="img/js.png" width="50px"><img src="img/mysql.png" width="50px"><img src="img/php.png" width="50px"><img src="img/python.png" width="50px"><img src="img/procreate.png" width="50px"><img src="img/git.png" width="50px"><img src="img/github.png" width="50px">
-
+</p>
 
 ## :mailbox: Contact me : 💬
 📧 Mail : matthieu.gaudel04@gmail.com
