@@ -24,9 +24,10 @@ I am at Georges Baumont high school in France with the Mathematics and Computer 
 </p>
 
 ## :mailbox: Contact me : 💬
-📧 Mail : matthieu.gaudel04@gmail.com
+- 📧 Mail : [matthieu.gaudel04@gmail.com](mailto:matthieu.gaudel04@gmail.com)
+- 📷 Instagram : [@matth_gdl](https://www.instagram.com/matth_gdl/)
 
-## :Github activity: 💬
+## Github activity 💬
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MMMatth&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MMMatth&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
