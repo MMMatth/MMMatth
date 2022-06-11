@@ -12,6 +12,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 * pygame `pip install pygame`
 
+## :mailbox: Contact me : 💬
+- 📧 Mail : [matthieu.gaudel04@gmail.com](mailto:matthieu.gaudel04@gmail.com)
+- 📷 Instagram : [@matth_gdl](https://www.instagram.com/matth_gdl/)
+
+
 ## 🤝 Collaborater
 
 <table align = "center">
