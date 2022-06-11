@@ -1,4 +1,4 @@
-# End of year games project 2022
+# Lorem Ipsum
 > Description of the img
 
 <p align = "center">
@@ -18,15 +18,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/76260503?v=4" width="100px;" alt="Picture of Matthéo"/><br>
+        <img src="#" width="100px;" alt="Lorem Ipsum"/><br>
         <sub>
-          <b>Matthéo</b>
+          <b>Lorem Ipsum</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/45897183?v=4" width="100px;" alt="Picture of Matthieu"/><br>
+        <img src="#" width="100px;" alt="Picture of Matthieu"/><br>
         <sub>
           <b>Matthieu</b>
         </sub>
@@ -34,9 +34,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/95853618?v=4" width="100px;" alt="Picture of Louis"/><br>
+        <img src="" width="100px;" alt="Lorem Ipsum"/><br>
         <sub>
-          <b>Louis</b>
+          <b>Lorem Ipsum</b>
         </sub>
       </a>
     </td>
