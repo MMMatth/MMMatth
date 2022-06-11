@@ -1,4 +1,4 @@
-# Nim game
+# Lorem Ipsum
 > Description of the img
 
 <p align = "center">
@@ -6,11 +6,11 @@
 </p>
 
 ## 🚀 What is my project ?
-Is a simple game there are 12 sticks and you can took of 1,2 or 3 sticks if a player can take juste one stick he lost ,you can play with a friend or with a computer.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 ## 💻 Python library to install :
 
-* pygame `pip install pygame`
+* Lorem Ipsum `pip install Lorem Ipsum`
 
 ## :mailbox: Contact me : 💬
 - 📧 Mail : [matthieu.gaudel04@gmail.com](mailto:matthieu.gaudel04@gmail.com)
