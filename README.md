@@ -10,7 +10,7 @@
 
 
 ## :pencil2: My professional status: :trophy:
-I am at Faculté des Sciences et Technologies in France with the Mathematics and Computer Science specialty. Some project of mine:
+I am at the university of Sciences and Technologies in France with the Mathematics and Computer Science. Some project of mine:
 - [Nim game](https://github.com/MMMatth/Jeu-de-NIM)
 - [Pong game](https://github.com/MMMatth/Project-Pong-2020)
 - [Scrapping projet](https://github.com/MMMatth/Project-Scrapping-2022)
