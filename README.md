@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, I am a high school student , I have been a computer enthusiast for a long time.
+    Hi, I am a student , I have been a computer enthusiast for a long time.
   </samp>
 </p>
 
