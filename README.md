@@ -24,7 +24,7 @@ I am at the university of Sciences and Technologies in France with the Mathemati
 </p>
 
 ## :mailbox: Contact me : 💬
-- 📧 Mail : [matthieu.gaudel04@gmail.com](mailto:matthieu.gaudel04@gmail.com)
+- 📧 Mail : [matthieu.gaudel9@etu.univ-lorraine.fr](mailto:matthieu.gaudel9@etu.univ-lorraine.fr)
 - 📷 Instagram : [@matth_gdl](https://www.instagram.com/matth_gdl/)
 
 ## Github activity 💬
