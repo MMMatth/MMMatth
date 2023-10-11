@@ -13,6 +13,10 @@
 I am at the university of Sciences and Technologies in France with the Mathematics and Computer Science. Some project of mine:
 - [video-game-cpp](https://github.com/MMMatth/video-game-cpp)
 - [space-invader-c](https://github.com/MMMatth/space-invader-C)
+- [game-AI](https://github.com/MMMatth/game-AI)
+- [pixi-et-pixa-nuit-du-code](https://github.com/MMMatth/pixi-et-pixa-nuit-du-code)
+- [website-sql](https://github.com/MMMatth/website-sql)
+- [app-scrapping-music](https://github.com/MMMatth/app-scrapping-music)
  ## :trophy: Languages and Tools: :robot:
 <p align="center">
 <img src="img/html.png" width="50px"> <img src="img/css.png" width="50px"> <img src="img/js.png" width="50px"><img src="img/mysql.png" width="50px"><img src="img/php.png" width="50px"><img src="img/python.png" width="50px"><img src="img/procreate.png" width="50px"><img src="img/git.png" width="50px"><img src="img/github.png" width="50px">
