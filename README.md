@@ -10,7 +10,7 @@
 
 
 ## :pencil2: My professional status: :trophy:
-I am at the university of Sciences and Technologies in France with the Mathematics and Computer Science. Some project of mine:
+I am at the university of Sciences and Technologies in France with the Computer Science. Some project of mine:
 - [video-game-cpp](https://github.com/MMMatth/video-game-cpp)
 - [space-invader-c](https://github.com/MMMatth/space-invader-C)
 - [game-AI](https://github.com/MMMatth/game-AI)
