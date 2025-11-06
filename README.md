@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    💻 Computer Science Student | IoT Developer | Embedded Systems Enthusiast
+  </samp>
+</p>
 
-<!--
-**MMMatth/MMMatth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Currently pursuing a Master's in Computer Science at University of Sciences and Technologies, France 🇫🇷  
+On exchange in Sweden 🇸🇪 | Apprentice Developer at **Ewattch** (IoT Industrial Solutions)
 
-Here are some ideas to get you started:
+Passionate about transforming ideas into connected solutions through embedded development and IoT innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- **Embedded Development**: Raspberry Pi, OpenWRT, microcontrollers
+- **IoT Solutions**: From prototype to production-ready systems  
+- **Full-Stack Development**: Web applications for IoT monitoring & control
+- **System Optimization**: Performance tuning and debugging
+
+## 🛠️ Tech Stack
+**Languages:** Python • C/C++ • JavaScript • SQL  
+**Platforms:** Raspberry Pi • Arduino • OpenWRT • Linux  
+**Tools:** Git • Docker • JetBrains IDEs  
+**Specialties:** IoT Architecture • Embedded Systems • Web Integration
+
+## 🌱 Currently
+- 📚 Mastering Cybersecurity & Embedded Systems
+- 🔧 Building IoT projects during my Erasmus exchange
+- 💡 Exploring freelance opportunities in embedded development
+
+## 🌐 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthieu-gaudel-654646236/)
+
+---
+⚡ *Ready to bring your IoT ideas to life!*
