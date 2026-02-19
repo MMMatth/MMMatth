@@ -5,8 +5,7 @@
 </p>
 
 ## 👨‍💻 About Me
-Currently pursuing a Master's in Computer Science at University of Sciences and Technologies, France 🇫🇷  
-On exchange in Sweden 🇸🇪 | Apprentice Developer at **Ewattch** (IoT Industrial Solutions)
+Currently pursuing a Master's in Computer Science at University of Sciences and Technologies, France 🇫🇷 | Apprentice Developer at **Ewattch** (IoT Industrial Solutions)
 
 Passionate about transforming ideas into connected solutions through embedded development and IoT innovation.
 
