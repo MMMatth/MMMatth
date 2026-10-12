@@ -1,33 +1,36 @@
 <p align="center">
   <samp>
-    💻 Computer Science Student | IoT Developer | Embedded Systems Enthusiast
+    Cybersecurity Master's Student | R&D Developer @ Ewattch | Embedded & IoT
   </samp>
 </p>
 
-## 👨‍💻 About Me
-Currently pursuing a Master's in Computer Science at University of Sciences and Technologies, France 🇫🇷 | Apprentice Developer at **Ewattch** (IoT Industrial Solutions)
+## About Me
+Final-year Master's student in Cybersecurity in Metz, France | Apprentice R&D Developer (embedded systems & web) at **Ewattch** since 2024
 
-Passionate about transforming ideas into connected solutions through embedded development and IoT innovation.
+I work at the crossroads of embedded development, building automation and security, from the hardware up to the web interface.
 
-## 🚀 What I Do
-- **Embedded Development**: Raspberry Pi, OpenWRT, microcontrollers
-- **IoT Solutions**: From prototype to production-ready systems  
-- **Full-Stack Development**: Web applications for IoT monitoring & control
-- **System Optimization**: Performance tuning and debugging
+## What I Do
+- **Building Management Systems**: Development on Ewattch's BMS platform (GTB)
+- **IoT Gateways**: BACnet / LoRaWAN integration, provisioning and production tooling
+- **Embedded Development**: Linux-based devices, OpenWRT, Raspberry Pi, microcontrollers
+- **Full-Stack Development**: Web interfaces for monitoring & control
+- **Security**: Applying cybersecurity practices to embedded and IoT systems
 
-## 🛠️ Tech Stack
-**Languages:** Python • C/C++ • JavaScript • SQL  
-**Platforms:** Raspberry Pi • Arduino • OpenWRT • Linux  
-**Tools:** Git • Docker • JetBrains IDEs  
-**Specialties:** IoT Architecture • Embedded Systems • Web Integration
+## Tech Stack
+**Languages:** Python • C/C++ • SQL  
+**Platforms:** Linux • OpenWRT • Raspberry Pi  
+**Protocols:** BACnet • LoRaWAN   
+**Tools:** Git • Docker • Proxmox • JetBrains IDEs  
+**Specialties:** IoT Architecture • Embedded Systems • Building Automation • Cybersecurity
 
-## 🌱 Currently
-- 📚 Mastering Cybersecurity & Embedded Systems
-- 🔧 Building IoT projects during my Erasmus exchange
-- 💡 Exploring freelance opportunities in embedded development
+## Currently
+- Finishing my Master's in Cybersecurity
+- Building BMS and gateway features at Ewattch
+- Running a self-hosted Proxmox homelab 
 
-## 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/matthieu-gaudel-654646236/)
+  
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/matthieu-gaudel-654646236/)
 
 ---
-⚡ *Ready to bring your IoT ideas to life!*
+*From the sensor to the dashboard, securely.*
